@@ -1,0 +1,10 @@
+learned the below commands :
+git branch -a
+git status
+git checkout <branchname>
+git pull 
+git commit
+git merge
+git fetch
+git rm
+git add
