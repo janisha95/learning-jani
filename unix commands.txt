@@ -1,0 +1,10 @@
+ls
+ls -a hidden files
+ls -l detailed list
+cd
+cd .. previous directory
+cd /etc
+cd - Jump back to previously used directory
+cd D(press tab for suggestions starting from that letter)
+pushd (file path)
+pop d
